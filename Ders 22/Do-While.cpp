@@ -9,4 +9,4 @@ while(number>=1 && number<=50){
 
 }
 return 0;
-}
+}       
