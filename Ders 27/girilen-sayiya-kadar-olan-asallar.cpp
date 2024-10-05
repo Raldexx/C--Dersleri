@@ -10,7 +10,7 @@ cin>>number;
 for(i=2;i<=number;i++){
 
     for(j=2;j<=sqrt(i);j++){
-        if(i % j % ==0){
+        if(i % j % 0){
             control:2;
             break;
         }
