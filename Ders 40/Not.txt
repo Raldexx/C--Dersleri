@@ -1,0 +1,5 @@
+Arrayler izlenince Ders-40 yeniden izlenecek !_!
+Ne ara 40 oldu yaw
+
+Birde sormam gereken bir soru var ekrandan bakarak yazdığımız birşeyi daha yavaş yazıyorum ama kendim uydurduğum random birşeyi daha hızlı yazıyorum nası gelişecek bu?
+Birde İnt main()yazıyoruz ya mainin adını değiştirebilirmiyiz yoksa biz ismini main olarak koyduğumuzda ondan falanmı başlıyor?
